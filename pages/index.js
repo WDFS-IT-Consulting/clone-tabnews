@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Não estava funcionando, poque estava faltando o commit!!! rss</h1>
+    return <h1>Oba! Now it's working!!!!</h1>
 }
 
 export default Home;
