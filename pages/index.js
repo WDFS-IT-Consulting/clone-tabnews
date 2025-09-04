@@ -1,5 +1,5 @@
 function Home() {
-    return  <div> <h1>Bjkas. Durma bem</h1> <img src="/kiss.gif"></img> </div>        
+    return  <div> <h1>Acordaaaa! Bom dia!</h1> <img src="/wakeup.webp"></img> </div>        
 }
 
 export default Home;
